@@ -1,0 +1,6 @@
+Student ID: 119010001
+Name: Your Name
+Assignment 2 Sequential
+Run Time: 1.037595 seconds
+Problem Size: 2000 * 2000, 100
+Process Number: 1

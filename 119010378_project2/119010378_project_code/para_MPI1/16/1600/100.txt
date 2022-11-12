@@ -1,0 +1,6 @@
+Student ID: 119010378
+Name: Yang Hongmeng
+Assignment 2 MPI
+Run Time: 0.226442 seconds
+Problem Size: 1600 * 1600, 100
+Process Number: 16

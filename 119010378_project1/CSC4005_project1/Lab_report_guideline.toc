@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Material and Method}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Sequential computation method}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Theoretical Model}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Detailed implementation}{3}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Parallel computation method}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Theoretical Model}{5}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Detailed implementation}{6}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Compile and test both codes}{10}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Result Analysis:}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Theoretical analysis}{10}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Time complexity}{10}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Speedup}{11}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Efficiency}{11}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Result analysis}{11}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Execution time}{11}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Speedup}{13}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Efficiency}{14}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {4}Conclusion}{15}{section.4}%
+\contentsline {section}{\numberline {5}Appendix}{15}{section.5}%

@@ -1,0 +1,6 @@
+Student ID: 119010378
+Name: Yang Hongmeng
+Assignment 2 Pthread
+Run Time: 0.750455 seconds
+Problem Size: 2000 * 2000, 100
+Thread Number: 2

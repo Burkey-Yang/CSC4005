@@ -1,0 +1,8 @@
+actual number of elements:640000
+Student ID: 119010378
+Name: Yang Hongmeng
+Assignment 1
+Run Time: 49.4412 seconds
+Input Size: 640000
+Process Number: 28
+Sorted.
